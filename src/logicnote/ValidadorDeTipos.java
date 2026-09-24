@@ -14,6 +14,8 @@ public class ValidadorDeTipos {
         String value = sc.nextLine();
         return value;
 
+
     }
+
 
 }

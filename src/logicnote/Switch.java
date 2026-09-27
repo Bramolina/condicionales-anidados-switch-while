@@ -16,7 +16,7 @@ public class Switch {
 
         switch (option){
             case 1 :
-                System.out.println("Cuenta de ahorrosSSS");
+                System.out.println("Cuenta de ahorross");
                 break;
             case 2 :
                 System.out.println("Credito");

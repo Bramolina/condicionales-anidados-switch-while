@@ -12,11 +12,11 @@ public class Switch {
 
         int option=ValidadorDeTipos.validarEnteros();
 
-        System.out.println(option);
+        System.out.println("Opcion: " + option);
 
         switch (option){
             case 1 :
-                System.out.println("Cuenta de ahorros");
+                System.out.println("Cuenta de ahorrosSSS");
                 break;
             case 2 :
                 System.out.println("Credito");
@@ -25,12 +25,10 @@ public class Switch {
                 System.out.println("Inversion");
                 break;
             case 4:
-                System.out.println("Mis datos");
+                System.out.println("Mis datosSSS");
                 break;
             default:
                 System.out.println("Ingrese una opcion valida");
-
-
         }
     }
 }

@@ -12,6 +12,7 @@ public class Array {
         String[] names= {"Maria","Luisa","Juan"};
         int [] ages= new int[4];
 
+
         //Vamos a mandar valores al array
 
         ages[0]=23;
